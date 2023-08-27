@@ -1,0 +1,28 @@
+Libraries needed (predict stroke): 
+
+
+EDA, CLEANING & PROCESSING:
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.preprocessing import LabelEncoder, OneHotEncoder
+import statsmodels.api as sm
+from imblearn.under_sampling import RandomUnderSampler
+
+ML:
+
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
+from sklearn.model_selection import train_test_split, GridSearchCV
+
+from sklearn.linear_model import LogisticRegression
+from sklearn.preprocessing import StandardScaler
+from sklearn.naive_bayes import GaussianNB
+from sklearn.svm import SVC
+from sklearn.pipeline import Pipeline
+import pickle
+
+from sklearn.metrics import confusion_matrix, classification_report
+from sklearn.metrics import roc_curve, auc
+
