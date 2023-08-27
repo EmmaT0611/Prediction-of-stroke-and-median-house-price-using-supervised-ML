@@ -2,8 +2,7 @@
 
 #PROJECT SUMMARY
 
-Machine learning(ML) model trained as part of mini project for the 3 months Data Science & AI bootcamp at Institute of Data (Singapore).
-There are 2 ML model trained using supervised learning.   
+To carry out supervised machine learning (ML) models training as part of Data Science and AI study at Institute of Data (Singapore).
 
 Objective:
 
